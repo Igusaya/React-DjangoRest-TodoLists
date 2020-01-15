@@ -1,0 +1,3 @@
+[submodule "backend-django-rest-todolists"]
+	path = backend-django-rest-todolists
+	url = https://github.com/Igusaya/backend-django-rest-todolists.git
